@@ -1,6 +1,5 @@
 # Aktywny firewall 
-Group project:
-+ alice737
+Projekt dwuosobowy: alice737
 # Spis treści
 - [Opis projektu](#opis-projektu)
   + [Narzędznia i architektura](#narzędzia-i-architektura)
